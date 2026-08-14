@@ -1,0 +1,41 @@
+name: Sync catalog
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: '1.3.14'
+
+      - name: Run tests
+        run: bun test
+
+      - name: Sync catalog
+        run: bun run sync
+
+      - name: Commit catalog changes
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            echo 'README.md is unchanged; nothing to commit.'
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'chore(catalog): sync upstream open-source apps [skip ci]'
+          git push origin "HEAD:${GITHUB_REF_NAME}"

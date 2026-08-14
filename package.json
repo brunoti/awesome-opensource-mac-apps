@@ -1,0 +1,9 @@
+{
+  "name": "awesome-opensource-mac-apps",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "bun src/sync.ts",
+    "test": "bun test"
+  }
+}
