@@ -107,6 +107,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Edmund](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault. [![Open-Source Software][OSS Icon]](https://github.com/I7T5/Edmund) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
 * [Imark](https://github.com/migsilva89/imark) - Open-source Markdown reader that stores your comments inside the document itself as HTML comments. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [JustMD](https://justmd.nuta.life/) - Open-source Markdown editor for local files that hides syntax outside the line being edited. [![Open-Source Software][OSS Icon]](https://github.com/yuraist/just-md) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6779422717)
 * [MacDown](https://macdown.uranusjr.com/) - Open source Markdown editor for macOS with live preview and HTML/PDF export. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [MarkText](https://github.com/marktext/marktext) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - Markdown presentation writer with cross-platform support. [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
@@ -609,8 +610,10 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 
 ## Finance
 
+* [Posnic](https://www.posnic.com/) - Offline-first open-source POS and billing software for retail shops and restaurants. [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P&L. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 * [StockDock](https://github.com/simonsruggi/StockDock) - Menu bar app for real-time stocks, ETFs, crypto and portfolio P&L. Privacy-first, no account, multi-currency. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
+* [MRRDock](https://mrrdock.simoneruggiero.com) - Menu bar app that adds up your MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments and Gumroad into one total. Multi-currency, keys stay in the Keychain, no account. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/MRRDock) ![Freeware][Freeware Icon]
 
 ## Encryption
 
@@ -687,6 +690,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 
 * [Agent Island](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
+* [Candela](https://candela.fyi) - Display care for external monitors: OLED burn-in protection, panel health history, and everyday brightness, volume, and contrast controls. [![Open-Source Software][OSS Icon]](https://github.com/Rydersel/Candela) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [cctop](https://cctop.app) - Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window. [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [ChargeMonitor](https://github.com/CrashSystemZ/ChargeMonitor) - Menu bar battery monitor with real-time charging stats and energy impact insights. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
 * [CodexIsland](https://github.com/ericjypark/codex-island) - Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
@@ -847,6 +851,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Keeweb](https://keeweb.info/) - Free, cross-platform password manager compatible with KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 * [KeepassXC](https://keepassxc.org/) - Free, open source, cross-platform password manager. [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) ![Freeware][Freeware Icon]
 * [MacPass](https://macpass.github.io/) - Open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
+* [Mactokio](https://github.com/dalirnet/mactokio) - Native TOTP/HOTP authenticator that imports accounts by webcam QR scan and keeps secrets AES-256 encrypted on device. [![Open-Source Software][OSS Icon]](https://github.com/dalirnet/mactokio) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Strongbox](https://strongboxsafe.com/) - KeePass-compatible password manager with Password Safe support. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox) [![App Store][app-store Icon]](https://apps.apple.com/us/app/strongbox/id1270075435?platform=mac)
 * [Swifty](https://getswifty.pro/) - Free Offline-first Password Manager for MacOS, Windows and Linux. [![Open-Source Software][OSS Icon]](https://github.com/swiftyapp/swifty) ![Freeware][Freeware Icon]
 
@@ -896,6 +901,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 
 ## Gaming Software
 
+* [Highball](https://gethighball.com) - Run Windows games on Apple Silicon through Wine, with the graphics layer (DXMT, DXVK or D3DMetal) chosen per game from an open compatibility database. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 * [OpenEmu](https://openemu.org/) - Retro game emulator frontend for multiple console systems. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OpenEmu/OpenEmu)
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PlayCover/PlayCover)
 * [PPSSPP](https://www.ppsspp.org) - A awesome PSP emulator for any OS you can dream of! [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hrydgard/ppsspp)
@@ -981,6 +987,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [MarkersExtractor](https://github.com/TheAcharya/MarkersExtractor) - Marker metadata extraction and conversion tool and library for Final Cut Pro. [![Open-Source Software][OSS Icon]](https://github.com/TheAcharya/MarkersExtractor) ![Freeware][Freeware Icon]
 * [mas](https://github.com/mas-cli/mas) - Simple command line interface for the Mac App Store. [![Open-Source Software][OSS Icon]](https://github.com/mas-cli/mas) ![Freeware][Freeware Icon]
 * [Miller](https://miller.readthedocs.io/en/latest/) - Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON. [![Open-Source Software][OSS Icon]](https://github.com/johnkerl/miller) ![Freeware][Freeware Icon]
+* [Mole](https://github.com/tw93/Mole) - Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. [![Open-Source Software][OSS Icon]](https://github.com/tw93/Mole) ![Freeware][Freeware Icon]
 * [ndm](https://720kb.github.io/ndm/) - Manage [npm](http://npmjs.org/) straight from the couch. [![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
 * [nushell](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon]
 * [nvm](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions. [![OSS][OSS Icon]](https://github.com/nvm-sh/nvm) ![Freeware][Freeware Icon]
