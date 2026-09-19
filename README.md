@@ -566,6 +566,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [LangSwitcher](https://github.com/reg2005/langSwitcher) - Keyboard layout converter for mistyped text. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Qingjian 青简](https://qingjian.app/) - Rust-based cross-platform Pinyin input method that displays translations in the language you are learning alongside candidate words. [![Open-Source Software][OSS Icon]](https://github.com/qingjian-team/qingjian) ![Freeware][Freeware Icon]
 * [Touch Emoji](https://github.com/lessmess-dev/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/lessmess-dev/touch-emoji)
+* [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) - Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries. [![Open-Source Software][OSS Icon]](https://github.com/vChewing/vChewing-macOS) ![Freeware][Freeware Icon]
 * [betterglobekey](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software][OSS Icon]](https://github.com/Serpentiel/betterglobekey) ![Freeware][Freeware Icon]
 * [InputSourcePro](https://inputsource.pro/) - Tool for automatically switching input sources by app or website. [![Open-Source Software][OSS Icon]](https://github.com/runjuu/InputSourcePro) ![Freeware][Freeware Icon]
 
@@ -692,6 +693,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 ### Menu Bar Tools
 
 * [Agent Island](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
+* [AirPoise](https://airpoise.vercel.app/) - Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Candela](https://candela.fyi) - Display care for external monitors: OLED burn-in protection, panel health history, and everyday brightness, volume, and contrast controls. [![Open-Source Software][OSS Icon]](https://github.com/Rydersel/Candela) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [cctop](https://cctop.app) - Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window. [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
@@ -917,6 +919,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 
 ## Remote Login Software
 
+* [HopToDesk](https://www.hoptodesk.com/) - Open-source remote desktop and remote support tool with end-to-end encrypted sessions. [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
 * [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - GUI desktop client for FRP that puts local services on the internet with one click. [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - Yet another remote desktop software. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
