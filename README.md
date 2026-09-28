@@ -611,6 +611,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [MoePeek](https://github.com/cosZone/MoePeek) - Translation tool with text selection, OCR, clipboard, and manual input support. [![Open-Source Software][OSS Icon]](https://github.com/cosZone/MoePeek) ![Freeware][Freeware Icon]
 * [OpenAI Translator](https://github.com/yetone/openai-translator) - Translation app and browser extension powered by AI models. [![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator) ![Freeware][Freeware Icon]
 * [ScreenTranslate](https://screentranslate.filient.ai/) - Capture any area or select text to translate instantly, fully on-device. [![Open-Source Software][OSS Icon]](https://github.com/hcmhcs/screenTranslate) ![Freeware][Freeware Icon]
+* [Translate Like Me](https://github.com/wiltodelta/translate-like-me) - Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok. [![Open-Source Software][OSS Icon]](https://github.com/wiltodelta/translate-like-me) ![Freeware][Freeware Icon]
 * [Translatium](https://translatium.app) - Translation app for words, phrases, and images in 100+ languages. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://apps.apple.com/us/app/translatium/id1547052291?platform=mac)
 
 ## Finance
@@ -711,6 +712,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - A menu bar app for seamless Google Drive syncing. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
 * [Hidden](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - Menu bar manager for hiding icons and organizing layouts. [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
+* [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers. [![Open-Source Software][OSS Icon]](https://github.com/niyamvora/ILoveNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Itsyhome](https://itsyhome.app) - Control your HomeKit and Home Assistant smart home from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) [![App Store][app-store Icon]](https://apps.apple.com/app/itsyhome/id6758070650?platform=mac)
 * [Itsytv](https://itsytv.app/) - Control your Apple TV from the menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nickustinov/itsytv-macos)
