@@ -602,6 +602,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Privacy browser designed for anonymous web browsing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/tor-browser/)
 * [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser focused on anti-fingerprinting protection. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
 * [Web](https://github.com/nuance-dev/Web) - Minimal AI browser for macOS, built with SwiftUI. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/nuance-dev/Web)
+* [Yalqen](https://yalqen.com/) - Open-source, Chromium-based developer browser with vertical tabs and a keyboard-first command bar. [![Open-Source Software][OSS Icon]](https://github.com/YSamed/yalqen) ![Freeware][Freeware Icon]
 * [Zen](https://zen-browser.app/) - A beautifully designed, privacy-focused, and feature-rich browser ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/zen-browser/desktop)
 
 ## Translation Tools
@@ -710,6 +711,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Repose](https://github.com/fikrikarim/repose) - Menu bar break timer that dims your screen and pauses during calls. [![Open-Source Software][OSS Icon]](https://github.com/fikrikarim/repose) ![Freeware][Freeware Icon]
 * [Fishing Funds](https://ff.1zilc.top) - Display real-time trends of Chinese funds in the menubar. [![Open-Source Software][OSS Icon]](https://github.com/1zilc/fishing-funds) ![Freeware][Freeware Icon]
 * [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync) - A menu bar app for seamless Google Drive syncing. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/GoogleDriveSync)
+* [HeyMate](https://getheymate.vercel.app) - AI assistant in the MacBook notch that answers questions about your screen out loud and runs Claude Code, Codex, or OpenCode agents after you approve their plan, with media, file shelf, and calendar widgets. [![Open-Source Software][OSS Icon]](https://github.com/UmarSiddiqui/heymate) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hidden](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software][OSS Icon]](https://github.com/dwarvesf/hidden) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - Menu bar manager for hiding icons and organizing layouts. [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
 * [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers. [![Open-Source Software][OSS Icon]](https://github.com/niyamvora/ILoveNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -757,6 +759,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Mac Clean](https://github.com/iliyami/MacClean) - Free, open-source cleaner, optimizer, and malware scanner. [![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean) ![Freeware][Freeware Icon]
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Remove unwanted Xcode files. [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
 * [ClearDisk](https://github.com/bysiber/cleardisk) - Visualize and clean developer caches to quickly reclaim disk space. [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
+* [DiskWise](https://github.com/DreamOfXM/diskwise) - Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry. [![Open-Source Software][OSS Icon]](https://github.com/DreamOfXM/diskwise) ![Freeware][Freeware Icon]
 * [Dusty](https://toprak.sh/dusty) - Open-source menu bar disk cleaner that deletes only from a fixed allowlist, shows every path before removing it, and can undo a clean. [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - Menu bar app that auto-discovers and frees the disk space dev build artifacts and caches hog (DerivedData, node_modules, SPM/Homebrew caches). Zero telemetry, notarized. [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
@@ -766,6 +769,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - A free, source-available and fair-code licensed mac app cleaner. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alienator88/Pearcleaner)
 * [PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
 * [Purge](https://getpurge.com) - Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/jithin-sabu/purge-app) ![Freeware][Freeware Icon]
+* [SquirrelDisk](https://github.com/adileo/squirreldisk) - Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage. [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
 
 ### File Organization Tools
 
@@ -810,7 +814,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Freeter](https://freeter.io/) - Organize apps, links, and files by project in one workspace. [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
 * [Hammerspoon](https://www.hammerspoon.org/) - Tool for powerful OSX automation with the Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 * [HapticKey](https://github.com/niw/HapticKey/releases) - Add haptic feedback when using the Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
-* [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
+* [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Remap keys and customize keyboard behavior on macOS. [![Open-Source Software][OSS Icon]](https://github.com/pqrs-org/Karabiner-Elements) ![Freeware][Freeware Icon]
 * [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
 * [Linear Mouse](https://linearmouse.app/) - Full control of mouse. Change the speed, scrolling direction, pointer type and much more. [![Open-Source Software][OSS Icon]](https://github.com/linearmouse/linearmouse)
 * [Mac Mouse Fix](https://macmousefix.com) - A simple way to make your mouse better. [![Open-Source Software][OSS Icon]](https://github.com/noah-nuebling/mac-mouse-fix) ![Freeware][Freeware Icon]
@@ -899,6 +903,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [iStats](https://github.com/Chris911/iStats) - Command-line system information tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Chris911/iStats)
 * [Juice](https://github.com/brianmichel/Juice) - Enhanced battery information display. [![Open-Source Software][OSS Icon]](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Caffeine alternative with dark mode support. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
+* [MacFanPro](https://github.com/macfanpro/macfanpro) - Fan control for Apple Silicon Macs with a menu bar app, temperature-based profiles and a CLI. [![Open-Source Software][OSS Icon]](https://github.com/macfanpro/macfanpro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [macUSB](https://github.com/Kruszoneq/macUSB) - A bootable macOS / OS X installer creator for Apple Silicon Macs. [![Open-Source Software][OSS Icon]](https://github.com/Kruszoneq/macUSB) ![Freeware][Freeware Icon]
 * [MagicQuit](https://magicquit.com/) - Automatically quit inactive apps to reduce clutter and free resources. [![Open-Source Software][OSS Icon]](https://github.com/BigBerny/magicquit) ![Freeware][Freeware Icon]
 * [MiddleDrag](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag on macOS. [![Open-Source Software][OSS Icon]](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) ![Freeware][Freeware Icon]
