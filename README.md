@@ -118,6 +118,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 ### Note-taking
 
 * [Affine](https://affine.pro/) - Affine is the next-generation collaborative knowledge base for professionals. [![Open-Source Software][OSS Icon]](https://github.com/toeverything/AFFiNE) ![Freeware][Freeware Icon]
+* [Amber Notes](https://ambernotes.app/) - Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable. [![Open-Source Software][OSS Icon]](https://github.com/emilwagman/amber-notes) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [AppFlowy](https://www.appflowy.io/) - Open-source alternative to Notion. [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
 * [Boostnote](https://boostnote.io/) - Note-taking app made for programmers. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
 * [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and a web interface. [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
@@ -204,6 +205,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running. [![Open-Source Software][OSS Icon]](https://github.com/sorkila/tintpad) ![Freeware][Freeware Icon]
 * [FlyEnv](https://www.flyenv.com) - Local development environment manager for languages, databases, and services. [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
 * [Finicky](https://johnste.github.io/finicky/) - Set rules to decide which browser opens each link. [![OSS][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
+* [Frpc-Desktop](https://github.com/luckjiawei/frpc-desktop) - Open-source desktop client for FRP reverse proxy and intranet penetration with a visual interface. [![Open-Source Software][OSS Icon]](https://github.com/luckjiawei/frpc-desktop) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Simple hosts file manager for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - Fast and clever open source hex editor. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/hex-fiend/id1342896380?platform=mac)
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - System preference pane to manage your hosts file. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
@@ -222,6 +224,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [PortKiller](https://github.com/productdevbook/port-killer) - Tool for inspecting ports, managing forwards and tunnels, and stopping bound processes. [![Open-Source Software][OSS Icon]](https://github.com/productdevbook/port-killer)
 * [PPRows](https://github.com/jkpang/PPRows) - Application to calculate how many lines of code you write. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [Responsively](https://responsively.app) - A must-have devtool for web developers for quicker responsive web development. [![Open-Source Software][OSS Icon]](https://github.com/responsively-org/responsively-app) ![Freeware][Freeware Icon]
+* [Runner](https://github.com/yicheng47/runner) - Open-source workspace where CLI coding agents such as Claude Code, Codex, Copilot CLI, and pi work one task together as a crew, each in its own real terminal. [![Open-Source Software][OSS Icon]](https://github.com/yicheng47/runner) ![Freeware][Freeware Icon]
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - Set of shell scripts (for bash and zsh) that enhance your interaction with git. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 * [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - Native macOS app for managing local SSH keys and Git identities. [![Open-Source Software][OSS Icon]](https://github.com/Stmol/ssh-keys-manager-macos-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Starcat](https://starcat.ink/) - Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base. [![Open-Source Software][OSS Icon]](https://github.com/starcat-app/Starcat) ![Freeware][Freeware Icon] ![Native App][Native Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/starcat-for-github/id6788809803?mt=12)
@@ -362,6 +365,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Pencil2D](https://www.pencil2d.org) - A easy, intuitive tool to make 2D hand-drawn animations. [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
 * [Pika](https://superhighfives.com/pika) - An open-source color picker app. [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika) [![App Store][app-store Icon]](https://apps.apple.com/app/pika/id6739170421?platform=mac)
 * [RawTherapee](https://rawtherapee.com/) - A powerful cross-platform raw photo processing program! ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
+* [Screen Loupe](https://ayenora.github.io/screen-loupe/) - Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window. [![Open-Source Software][OSS Icon]](https://github.com/ayenora/screen-loupe) ![Freeware][Freeware Icon]
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/screentolayers/id1077317077?platform=mac)
     * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files. [![OSS][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
     * [Measure Plugin](https://utom.design/measure/) - Make it a fun to create spec for developers and teammates. [![Open-Source Software][OSS Icon]](https://github.com/utom/sketch-measure) ![Freeware][Freeware Icon]
@@ -519,6 +523,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Museeks](https://museeks.io) - A simple, clean and cross-platform music player. [![Open-Source Software][OSS Icon]](https://github.com/martpie/museeks) ![Freeware][Freeware Icon]
 * [Natron](https://natrongithub.github.io/) - Open-source node-based compositing software. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron) ![Freeware][Freeware Icon]
 * [Nuclear](https://nuclear.js.org/) -  Streaming music player that finds free music for you. [![Open-Source Software][OSS Icon]](https://github.com/nukeop/nuclear) ![Freeware][Freeware Icon]
+* [OpenSpatial](https://github.com/dortanes/openspatial) - Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking. [![Open-Source Software][OSS Icon]](https://github.com/dortanes/openspatial) ![Freeware][Freeware Icon]
 * [Perian](https://perian.org/#download) - (**No longer under active development**) ~~Let QuickTime play all the common formats of free plug-ins~~. [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian)
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) -  Cross-platform music tagger written in Python. [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 * [MyMedia](https://github.com/photangralenphie/MyMedia) - Display and watch your local movie and TV show library. [![Open-Source Software][OSS Icon]](https://github.com/photangralenphie/MyMedia) ![Freeware][Freeware Icon]
@@ -542,6 +547,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 ### Audio Record and Process
 
 * [CapSoftware](https://github.com/CapSoftware/) - An open-source alternative to Loom. Beautiful, shareable screen recording tool. [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/) ![Freeware][Freeware Icon]
+* [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - Call recorder and bot-free AI meeting note taker for Zoom, Meet, Teams, FaceTime, WhatsApp and phone calls. [![Open-Source Software][OSS Icon]](https://github.com/Digisensus/digisensus-recorder) ![Freeware][Freeware Icon]
 * [Segue](https://segue.npearce.me/) - Broadcast audio playout with crossfade, trim, ramp timers, and pause beds for live radio and podcasts. [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
 * [Stargate DAW](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [SystemEQ for Mac](https://denzam.github.io/SystemEQ-for-Mac/) - Free, open-source system-wide parametric equalizer with AutoEQ presets, hearing calibration, and real-time visualization. [![Open-Source Software][OSS Icon]](https://github.com/denzam/SystemEQ-for-Mac) ![Freeware][Freeware Icon]
@@ -553,6 +559,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [JDownloader](https://jdownloader.org/) - Open-source download manager for links, files, and hosted content. ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 * [Motrix](https://motrix.app/) - Download manager for HTTP, FTP, BitTorrent, magnet links, and more. [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
 * [qBittorrent](https://www.qbittorrent.org/) - A project aims to provide an open-source software alternative to µTorrent. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
+* [TBD](https://tbd.yt/) - Open-source YouTube video and audio downloader built on yt-dlp, which a phone on the same Wi-Fi can also drive. [![Open-Source Software][OSS Icon]](https://github.com/eliorpom-cmd/to-be-downloaded) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Transmission](https://www.transmissionbt.com/) - Fast, easy, free BitTorrent Client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
 * [You-Get](https://you-get.org/) - Tiny command-line utility to download media contents (videos, audios, images) from the web. [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
 * [youtube-dl](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl/) ![Freeware][Freeware Icon]
@@ -763,6 +770,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Dusty](https://toprak.sh/dusty) - Open-source menu bar disk cleaner that deletes only from a fixed allowlist, shows every path before removing it, and can undo a clean. [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty) ![Freeware][Freeware Icon]
 * [Harbofly](https://harbofly.app/) - Menu bar app that auto-discovers and frees the disk space dev build artifacts and caches hog (DerivedData, node_modules, SPM/Homebrew caches). Zero telemetry, notarized. [![Open-Source Software][OSS Icon]](https://github.com/carloshpdoc/Harbofly) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
+* [MacDirStat](https://github.com/phalladar/MacDirStat) - Open-source disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. [![Open-Source Software][OSS Icon]](https://github.com/phalladar/MacDirStat) ![Freeware][Freeware Icon]
 * [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup. [![Open-Source Software][OSS Icon]](https://github.com/AlexTkDev/MacOSCleaner) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - Open-source disk cleaner that groups files by app and moves them to the Trash. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [MangoDisk](https://mangodisk.app/) - Free, open-source disk cleaner and space analyzer that scans locally and shows paths and sizes before deletion. [![Open-Source Software][OSS Icon]](https://github.com/harry0703/MangoDisk) ![Freeware][Freeware Icon]
@@ -786,6 +794,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily. [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) ![Freeware][Freeware Icon]
 * [Equinox](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203?platform=mac)
 * [Latest](https://github.com/mangerlahn/Latest) - A tiny app that checks if all your apps from any source are up to date. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mangerlahn/Latest)
+* [Liftoff](https://github.com/firstfu/Liftoff) - Open-source Launchpad replacement with live window previews, window-title search, and one-click folder organizing. [![Open-Source Software][OSS Icon]](https://github.com/firstfu/Liftoff) ![Freeware][Freeware Icon]
 * [LaunchNext](https://github.com/RoversX/LaunchNext) - Classic Launchpad experience, relive old macOS. [![Open-Source Software][OSS Icon]](https://github.com/RoversX/LaunchNext) ![Freeware][Freeware Icon]
 * [Nifro](https://github.com/PathGao/Nifro) - Turn websites into configurable desktop wallpapers, with separate views for each display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PathGao/Nifro)
 * [OpenDisplay](https://opendisplay.app) - Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input. [![Open-Source Software][OSS Icon]](https://github.com/peetzweg/opendisplay) ![Freeware][Freeware Icon]
@@ -801,11 +810,13 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 
 ### To-Do Lists
 
+* [Lotti](https://matthiasn.github.io/lotti/) - Private logbook for tasks, time tracking, journaling and habits, with end-to-end encrypted sync and optional AI agents. [![Open-Source Software][OSS Icon]](https://github.com/matthiasn/lotti) ![Freeware][Freeware Icon]
 * [Super Productivity](https://super-productivity.com) - Task manager with timeboxing and time tracking. [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
 
 ### Productivity
 
 * [ActivityWatch](https://activitywatch.net/) - Cross-platform, extensible, and privacy-focused time-tracker. [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
+* [Brink](https://brinknotch.site) - A notch on your screen edge that keeps your Notion pages and tasks one hover away. [![Open-Source Software][OSS Icon]](https://github.com/StepanBlaha/Brink) ![Freeware][Freeware Icon]
 * [CalmMouse](https://calmmouse.malikzhang.com/) - Stop the Magic Mouse scrolling the page every time you click. [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
 * [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [escrcpy](https://github.com/viarotel-org/escrcpy) -📱 Graphical Scrcpy to display and control Android devices, powered by Electron.[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
@@ -843,6 +854,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 * [Dimsum](https://github.com/nshi/dimsum) - Minimalist menu bar app that dims inactive windows to highlight the focused one. [![Open-Source Software][OSS Icon]](https://github.com/nshi/dimsum) ![Freeware][Freeware Icon]
 * [DockDoor](https://dockdoor.net) - Free and open source window peeking & alt-tab for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ejbills/DockDoor)
 * [Dockit](https://dockit-docs.pages.dev) - An application that can dock any window to the edge of the screen. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
+* [DockLens](https://github.com/firstfu/DockLens-app) - Hover a Dock icon to see live thumbnails of all that app's windows, then switch, close or minimize them. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/firstfu/DockLens-app)
 * [Hummingbird](https://finestructure.co/hummingbird) - Easily move and resize windows without mouse clicks, from anywhere within a window.  [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/finestructure/Hummingbird)
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
 * [Loop](https://github.com/MrKai77/Loop) - Window management made elegant. [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop)
@@ -918,6 +930,7 @@ Run `bun run sync` to refresh it. Do not edit generated entries manually.
 
 ## Gaming Software
 
+* [Classic Game Box](https://github.com/lazyfury/classic-game-box) - Open-source retro-console emulator frontend built on libretro cores. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lazyfury/classic-game-box)
 * [Highball](https://gethighball.com) - Run Windows games on Apple Silicon through Wine, with the graphics layer (DXMT, DXVK or D3DMetal) chosen per game from an open compatibility database. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 * [OpenEmu](https://openemu.org/) - Retro game emulator frontend for multiple console systems. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OpenEmu/OpenEmu)
 * [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PlayCover/PlayCover)
